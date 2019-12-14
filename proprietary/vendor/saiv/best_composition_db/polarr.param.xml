@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Config>
+	<Mode>1</Mode>
+	<SmartCropThreshold>5.0</SmartCropThreshold>
+	<KeepBvTimeStart>10000</KeepBvTimeStart>
+	<ShutterTimer>20000</ShutterTimer>
+</Config>
+
