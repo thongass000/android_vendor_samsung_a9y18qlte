@@ -215,14 +215,15 @@ special_mode_mask values:
     </ChromatixName>
     <ChromatixName sensor_resolution_index="0" special_mode_mask="VIDEORECORDING,DIM_VGA">
       <ISPCommon>imx576_e24qs_common</ISPCommon>
-      <ISPPreview>imx576_e24qs_video_isp</ISPPreview>
-      <ISPSnapshot>imx576_e24qs_video_isp</ISPSnapshot>
-      <ISPVideo>imx576_e24qs_video_isp</ISPVideo>
-      <CPPPreview>imx576_e24qs_video_cpp</CPPPreview>
-      <CPPSnapshot>imx576_e24qs_video_cpp</CPPSnapshot>
-      <CPPVideo>imx576_e24qs_video_cpp</CPPVideo>
-      <A3Preview>imx576_e24qs_zsl_video_3a</A3Preview>
-      <A3Video>imx576_e24qs_zsl_video_3a</A3Video>
+      <ISPPreview>imx576_e24qs_3rd_preview_high_isp</ISPPreview>
+      <ISPSnapshot>imx576_e24qs_3rd_preview_high_isp</ISPSnapshot>
+      <ISPVideo>imx576_e24qs_3rd_preview_high_isp</ISPVideo>
+      <CPPPreview>imx576_e24qs_3rd_preview_high_cpp</CPPPreview>
+      <CPPSnapshot>imx576_e24qs_3rd_preview_high_cpp</CPPSnapshot>
+      <CPPVideo>imx576_e24qs_3rd_preview_high_cpp</CPPVideo>
+      <CPPLiveshot>imx576_e24qs_liveshot_cpp</CPPLiveshot>
+      <A3Preview>imx576_e24qs_3rd_preview_high_3a</A3Preview>
+      <A3Video>imx576_e24qs_3rd_preview_high_3a</A3Video>
       <PostProc>imx576_e24qs_sw_post_proc_tetra</PostProc>
     </ChromatixName>	
     <ChromatixName sensor_resolution_index="0" special_mode_mask="VIDEORECORDING,DIM_720P">

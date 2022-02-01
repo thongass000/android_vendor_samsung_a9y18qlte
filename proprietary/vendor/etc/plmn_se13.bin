@@ -61,7 +61,7 @@ $
 21601
 Telenor HU"TelenorH
 !
-21603DIGI Mobil HU"DIGI HU
+21603Digi.Mobil HU"Digi HU
 
 21630
 Telekom HU"THU
@@ -97,8 +97,6 @@ Telekom HU"THU
 22250ILIAD"ILIAD
 
 22288I WIND"I WIND
-
-222993 ITA"3 ITA
  
 22601RO Vodafone RO"VF-RO
 
@@ -131,15 +129,20 @@ Telekom SK"Telekom
 23106O2 - SK"O2 - SK
 
 23201A1"A1
-
+
 23203
-T-Mobile A"TMA
+Magenta-T-"MagentaT
 
 232053 AT"3 AT
 
 23207telering"telering
 
 232103 AT"3 AT
+
+23213
+Magenta-T-"MagentaT
+
+23217spusu"spusu
 #
 23403Airtel-Vodafone"ATL-VOD
 
@@ -193,8 +196,8 @@ Telenor SE"TelenorS
 24201	N Telenor"TELENOR
 
 24202N NetCom"NetCom
-
-24214ice.net"ice.net
+
+24214N ice"ice
 
 24299Tampnet"Tampnet
 
@@ -207,13 +210,12 @@ Telenor SE"TelenorS
 24414FI AMT"FI AMT
 
 24421FI elisa"elisa
-$
-24436DNA - Sonera FI"SuomenYV
-
-24491	FI SONERA"SONERA
+#
+24436DNA - Telia FI"SuomenYV
 
-24601
-OMNITEL LT"OMT
+24491Telia FI"Telia
+
+24601Telia LT"Telia
 
 24602LT BITE GSM"BITE
 
@@ -336,8 +338,8 @@ ALBtelecom"ATmobile
 27877Melita Mobile"Melita
 
 28001	Cyta-Voda"CytaVoda
-
-28010MTN"MTN
+
+28010epic"epic
 !
 28020PrimeTel PLC"PrimeTel
 
@@ -384,8 +386,8 @@ Telenor BG"Telenor
 
 29401
 Telekom MK"MKT MK
-
-29403Vip MKD"Vip MKD
+
+29403A1 MK"A1 MK
 
 29501
 SwisscomFL"Swiss FL
@@ -445,9 +447,6 @@ SPM AMERIS"AMERIS
 310050GCI"GCI
 
 31058Inland Cellular"IC
-
-310100
-US PLATEAU"PLATEAU
 
 310110IT&E"IT&E
 
@@ -526,8 +525,6 @@ US PLATEAU"PLATEAU
 310800T-Mobile"T-Mobile
 
 310840telna Mobile"telna
-
-310890Verizon"Verizon
 
 310990	Worldcall"Evolve
 
@@ -547,15 +544,11 @@ US PLATEAU"PLATEAU
 
 311270Verizon"Verizon
 
-311330BTW"BTW
-
 311370GCI"GCI
 
 311480Verizon"Verizon
 
 311530USANW"USANW
-!
-311540USA Proximiti"ProxMo
 
 311580U.S.Cellular"USCC
 #
@@ -566,8 +559,6 @@ US PLATEAU"PLATEAU
 311660	Metro PCS"MPCS
 $
 311710Northeast Wireless"NEWN
-!
-311730USA Proximiti"ProxMo
 
 311740TCI"TCI
 "
@@ -594,6 +585,8 @@ CoverageCo"CvgCo
  
 312630
 NetGenuity"NetGenui
+ 
+312720Southern Linc"SLINC
 
 312870GigSky"GigSky
 
@@ -629,7 +622,7 @@ NetGenuity"NetGenui
 
 342750DIGICEL"DIGICEL
 
-34430	APUA inet"inet
+34403	APUA inet"inet
 
 344920FLOW"FLOW
 
@@ -721,8 +714,6 @@ Beeline KZ"Beeline
 40211BT B-Mobile"B-Mobile
 
 40277	TASHICELL"TASHICEL
- 
-40401Vodafone IN"Vodafone
 
 40402
 IND airtel"airtel
@@ -731,40 +722,24 @@ IND airtel"airtel
 IND airtel"airtel
 
 40404IDEA"IDEA
- 
-40405Vodafone IN"Vodafone
 
 40407IDEA"IDEA
 
 40410
 IND airtel"airtel
- 
-40411Vodafone IN"Vodafone
 
 40412IDEA"IDEA
- 
-40413Vodafone IN"Vodafone
 
 40414IDEA"IDEA
- 
-40415Vodafone IN"Vodafone
 
 40416
 IND airtel"airtel
 
 40419IDEA"IDEA
- 
-40420Vodafone IN"Vodafone
 
 40422IDEA"IDEA
 
 40424IDEA"IDEA
- 
-40427Vodafone IN"Vodafone
-!
-404030Vodafone IN"Vodafone
- 
-40430Vodafone IN"Vodafone
 
 40431
 IND airtel"airtel
@@ -775,15 +750,11 @@ IND airtel"airtel
 
 40440
 IND airtel"airtel
- 
-40443Vodafone IN"Vodafone
 
 40444IDEA"IDEA
 
 40445
 IND airtel"airtel
- 
-40446Vodafone IN"Vodafone
 
 40449
 IND airtel"airtel
@@ -803,8 +774,6 @@ IND airtel"airtel
 40458CellOne"CellOne
 
 40459CellOne"CellOne
- 
-40460Vodafone IN"Vodafone
 
 40462CellOne"CellOne
 
@@ -844,14 +813,8 @@ IND airtel"airtel
 40481CellOne"CellOne
 
 40482IDEA"IDEA
- 
-40484Vodafone IN"Vodafone
- 
-40486Vodafone IN"Vodafone
 
 40487IDEA"IDEA
- 
-40488Vodafone IN"Vodafone
 
 40489IDEA"IDEA
 
@@ -896,26 +859,8 @@ IND airtel"airtel
 
 40556
 IND airtel"airtel
- 
-40566Vodafone IN"Vodafone
- 
-40567Vodafone IN"Vodafone
 
 40570IDEA"IDEA
-!
-405750Vodafone IN"Vodafone
-!
-405751Vodafone IN"Vodafone
-!
-405752Vodafone IN"Vodafone
-!
-405753Vodafone IN"Vodafone
-!
-405754Vodafone IN"Vodafone
-!
-405755Vodafone IN"Vodafone
-!
-405756Vodafone IN"Vodafone
 
 405799IDEA"IDEA
 
@@ -1046,6 +991,8 @@ IN Telenor"Telenor
 
 41006
 Telenor PK"TELENOR
+
+41007Jazz"Jazz
 
 41201AF AWCC"AWCC
 
@@ -1103,7 +1050,7 @@ SRI AIRTEL"Airtel
 
 41904KT, VIVA"VIVA
 
-42001STC"STC
+42001stc"stc
 
 42003
 Mobily-KSA"Mobily
@@ -1145,8 +1092,8 @@ Cellcom IL"Cellcom
 42601BATELCO"BATELCO
 
 42602Zain BH"Zain BH
-
-42604VIVA BH"VIVA BH
+
+42604stc"stc
 
 42701Ooredoo"Ooredoo
 
@@ -1181,9 +1128,9 @@ Beeline UZ"Beeline
 43603MegaFon TJK"MegaFon
 
 43604	Babilon-M"Babilon
-
+
 43605
-BEELINE TJ"BEELINE
+ZET-MOBILE"Z-MOBILE
 
 43701
 Beeline KG"Beeline
@@ -1257,14 +1204,18 @@ $
 455033 Macau"3 Macau
 
 45504CTM"CTM
+
+455053 Macau"3 Macau
 
 45601Cellcard"Cellcard
+
+45602Smart"Smart
 
 45604qb"qb
 
-45605SMART"SMART
+45605Smart"Smart
 
-45606SMART"SMART
+45606Smart"Smart
 
 45608Metfone"Metfone
 
@@ -1275,8 +1226,8 @@ $
 45702ETL MOBILE NETWORK"ETLMNW
 
 45703Unitel"UNITEL
-
-45708BEELINE LAO"BEELINE
+
+45708TPLUS"TPLUS
 
 46000CHINA MOBILE"CMCC
 
@@ -1355,8 +1306,6 @@ Banglalink"BL
 50502Optus AU"Optus
 
 50503vodafone AU"voda AU
-
-505063TELSTRA"3TELSTRA
 
 50510Norfolk Telecom"NT
 
@@ -1379,8 +1328,6 @@ Banglalink"BL
 51021IND INDOSAT"INDOSAT
 
 51028	Smartfren"SF
-
-51088BoltSuper4G"Bolt-ID
 
 510893"3
 
@@ -1425,6 +1372,8 @@ TOT Mobile"TOT
 52507SGP Call Zone"CallZone
 
 52508StarHub"StarHub
+
+52510TPG SG"TPG SG
 
 52802PCSB"PCSB
 
@@ -1436,6 +1385,8 @@ BRU-DSTCom"DSTCom
 53005Spark NZ"Spark NZ
 
 530242degrees"2degrees
+
+53601PacCell"PacCell
 
 53701bmobile"bmobile
 
@@ -1464,6 +1415,8 @@ BRU-DSTCom"DSTCom
 544110Bluesky Communications"BLUESKY
 
 54601NCL MOBILIS"MOBNCL
+
+54705VITI"VITI
  
 54715VODAFONE PF"VODAFONE
 
@@ -1477,8 +1430,6 @@ CK KOKANET"KOKANET
 54927Bluesky"Bluesky
  
 55001FSM Telecom"FSM Tele
-
-55101MH-NTA"NTA
 
 55201PalauCel"PalauCel
 
@@ -1523,8 +1474,8 @@ CK KOKANET"KOKANET
 60704Qcell"QC
 
 60801	Orange SN"OrangeSN
-
-60802SN-SENTEL SG"SENTEL
+
+60802SEN"Free
 !
 60803SEN expresso"Expresso
 
@@ -1590,6 +1541,8 @@ Orange LBR"Orange L
 61901	Orange SL"OrangeSL
 
 61905Africell"Africell
+
+61907QCell"QC
 
 62001GH MTN"MTN
  
@@ -1715,9 +1668,8 @@ SO Telesom"Tele
 64005Airtel"Airtel
 
 64101Airtel"Airtel
-
-64106
-VodafoneUG"VFU
+
+64104UG TANG"TANG
 
 64110
 MTN-UGANDA"MTN-UG
@@ -1763,12 +1715,14 @@ VodaCom-MZ"VodaCom
 64700	Orange re"Orange
  
 64701MAORE MOBILE"MMOBILE
-
-64702ONLY"ONLY
+
+64702TELCO OI"TELCO OI
 "
 64703FREE MOBILE RE"FREE RE
 
 64704ZEOP"ZEOP
+
+64710SRR"SRR
 
 64801
 ZW NET*ONE"NETONE
@@ -1793,8 +1747,8 @@ TELECEL ZW"TELECEL
 65201	BW MASCOM"MASCOM
 
 65202Orange"Orange
-
-65204beMOBILE"beMOBILE
+
+65204BTC"BTC
 !
 65302Swazi Mobile"Swazi Mo
 
@@ -1806,22 +1760,23 @@ TELECEL ZW"TELECEL
 
 65501
 VodaCom-SA"Vodacom
-
-65502	Telkom SA"Telkom
-
-65505	Telkom SA"Telkom
+
+65502TelkomSA"Telkom
+
+65505
+TelkomSA-R"Telkom-R
 
 65507Cell C"Cell C
 
 65510MTN-SA"MTN
 
 65538rain"rain
+
+65701EriTel"EriTel
 
 65801Sure"Sure
 
 65902MTN"MTN
-
-65904Vivacell"Vivacell
 
 65906ZAIN SS"ZAIN SS
 
@@ -1832,8 +1787,8 @@ VodaCom-SA"Vodacom
 70401	CLARO GTM"CLAROGTM
 
 70402TIGO"TIGO
-
-70403Movistar"Movistar
+
+70403	CLARO GTM"CLAROGTM
 
 70601	CLARO SLV"ClaroSLV
 
@@ -2004,4 +1959,4 @@ AeroMobile"AeroMob
 
 90146	Telecom26"T26
 
-90150EchoStar Mobile"EML%Published TS25 Database 18 March 2019
+90150EchoStar Mobile"EML(Published TS25 Database 17 February 2020

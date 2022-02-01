@@ -9,6 +9,10 @@
 25005TELE2"TELE2
 
 25011Yota"Yota
+
+25050Sberbank"Sberbank
+ 
+26209Vodafone.de"Vodafone
 (
 28001CYTAMOBILE-VODAFONE"CYTAVODA
 
@@ -479,8 +483,6 @@ Zain Iraq "	Zain Iraq
 42602zain BH"zain BH
 
 42604VIVA"VIVA
-
-42701Qatarnet"Qatarnet
 )
 42702Vodafone Qatar"Vodafone Qatar
 
@@ -634,9 +636,6 @@ CKY-Areeba"Areeba
 
 61204	IC COMIUM"ICCOMIUM
 
-61205
-TELECEL-CI"TELCEL
-
 61401SAHELCOM"SAHELCOM
 
 61403
@@ -659,9 +658,6 @@ NE TELECEL"TELECEL
 61902MILLICOM SL"MILLICOM
 
 62001MTN"MTN
-"
-62002GH Onetouch"
-GHOnetouch
 
 62003Tigo"Tigo
 
